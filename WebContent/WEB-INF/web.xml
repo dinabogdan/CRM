@@ -20,7 +20,7 @@
   <context-param>
   	<param-name>contextConfigLocation</param-name>
   		<param-value>
-  					/WEB-INF/free-customer-relationship-management-servlet.xml, /WEB-INF/spring-security.xml
+  					/WEB-INF/free-customer-relationship-management-servlet.xml, /WEB-INF/spring-security.xml, /WEB-INF/hibernate-configurations.xml
   		</param-value>
   </context-param>
   
